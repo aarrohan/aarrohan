@@ -24,6 +24,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" />
   </a>
 
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.icons8.com/color/48/000000/sass.png" />
+  </a>
+
   <a href="https://getbootstrap.com">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
   </a>
@@ -32,24 +36,28 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" />
   </a>
 
-  <a href="https://www.java.com">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  </a>
-
   <a href="https://reactjs.org/">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" />
   </a>
-  
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+
+  <a style="padding-right:8px;" href="https://nodejs.org">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  </a>
+
+  <a href="https://expressjs.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  </a>
+
+  <a href="https://firebase.google.com/">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" />
   </a>
 
   <a href="https://www.python.org">
     <img src="https://img.icons8.com/color/48/000000/python.png" />
   </a>
 
-  <a style="padding-right:8px;" href="https://nodejs.org">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <a href="https://www.java.com">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   </a>
 
   <a style="padding-right:8px;" href="https://www.mysql.com/">
@@ -60,28 +68,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />
   </a>
 
-  <a href="https://firebase.google.com/">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" />
-  </a>
-
   <a href="https://postman.com">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
   </a>
 
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/48/000000/git.png" />
-  </a>
-
-  <a href="https://www.jenkins.io">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48" />
-  </a>
-
-  <a href="https://redux.js.org">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" />
-  </a>
-  
-  <a href="https://expressjs.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>
 </p>
 
