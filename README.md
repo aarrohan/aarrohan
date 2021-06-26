@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Abdullah Al Reza Rohan</h1>
 <h3 align="center">I'm a Full Stack Web Developer from Bangladesh.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working in a Digital Agency **[Damaska Digital Australia](https://damaskadigital.com.au/)**
@@ -117,23 +116,19 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/subham-raoniar/">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook.png" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/subham-raoniar/">
+  <a href="https://www.linkedin.com/in/aarrohan/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
 
-  <a href="https://twitter.com/subhamraoniar">
+  <a href="https://twitter.com/aar_rohan">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
   </a>
 
-  <a href="https://www.instagram.com/subhamraoniar/">
+  <a href="https://www.instagram.com/_aar._.rohan_/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
 
-  <a href="https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA">
+  <a href="https://www.youtube.com/channel/UCCNF5btfTZ2rTNvQQFFHClg">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" />
   </a>
 </p>
@@ -142,6 +137,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=aarrohan">
 </a>
+
 <a href="https://github.com/aarrohan?tab=followers">
   <img src="https://img.shields.io/github/followers/aarrohan?label=Followers&style=social" alt="GitHub Badge">
 </a>
