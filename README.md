@@ -115,25 +115,27 @@
 <br />
 
 ## Connect with me:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarrohan/">
+  <a href="https://www.linkedin.com/in/aarrohan/" target="_BLANK">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
 
-  <a href="https://twitter.com/aar_rohan">
+  <a href="https://twitter.com/aar_rohan" target="_BLANK">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
   </a>
 
-  <a href="https://www.instagram.com/_aar._.rohan_/">
+  <a href="https://www.instagram.com/_aar._.rohan_/" target="_BLANK">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
   </a>
 
-  <a href="https://www.youtube.com/channel/UCCNF5btfTZ2rTNvQQFFHClg">
+  <a href="https://www.youtube.com/channel/UCCNF5btfTZ2rTNvQQFFHClg" target="_BLANK">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" />
   </a>
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=aarrohan">
 </a>
