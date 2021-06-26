@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://aarrohan.com)**
 
 - 📫 How to reach me **contact.aarrohan@gmail.com**
