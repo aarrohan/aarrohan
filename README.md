@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://aarrohan.com)**
 
-- 📫 How to reach me **contact.aarrohan@gmail.com**
+- 📫 How to reach me **aarezarohan@gmail.com**
 
 ## 🚀 Languages and Tools:
 
