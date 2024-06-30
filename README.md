@@ -99,6 +99,18 @@
 
 ###
 
+<h4 align="center">Blockchain:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="20" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="20" alt="polygon logo"  />
+</div>
+
+###
+
 <h4 align="center">Database & Caching:</h4>
 
 ###
