@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/440338495_122093732342305247_4620846180599912263_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=loZcMEBRx5cQ7kNvgG6Xy60&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBgWGaBMHWJMABM1e9E4USI1jWMJJ_Lsj_DZfJVLo5N2w&oe=66876BDF" style="width: 100%;"  />
+  <img height="300" src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/440338495_122093732342305247_4620846180599912263_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=loZcMEBRx5cQ7kNvgG6Xy60&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBgWGaBMHWJMABM1e9E4USI1jWMJJ_Lsj_DZfJVLo5N2w&oe=66876BDF" style="width: 100%"  />
 </div>
 
 ###
@@ -44,6 +44,22 @@
 
 ###
 
+<h4 align="center">Languages:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="php logo"  />
+</div>
+
+###
+
 <h4 align="center">Frontend:</h4>
 
 ###
@@ -72,6 +88,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="20" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="20" alt="less logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="20" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="20" alt="threejs logo"  />
 </div>
 
 ###
