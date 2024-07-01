@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/440338495_122093732342305247_4620846180599912263_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=loZcMEBRx5cQ7kNvgG6Xy60&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBgWGaBMHWJMABM1e9E4USI1jWMJJ_Lsj_DZfJVLo5N2w&oe=66876BDF" style="width: 100%"  />
+  <img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/440338495_122093732342305247_4620846180599912263_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=loZcMEBRx5cQ7kNvgG6Xy60&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBgWGaBMHWJMABM1e9E4USI1jWMJJ_Lsj_DZfJVLo5N2w&oe=66876BDF" style="width: 100%;"  />
 </div>
 
 ###
@@ -117,6 +117,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="20" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="20" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="firebase logo"  />
 </div>
 
 ###
